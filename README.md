@@ -1,1 +1,0 @@
-# KLHB--Design-and-Simulation-of-Digital-Access-Card-Verification-Using-XOR-NOR-Logic
